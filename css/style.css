@@ -1,10 +1,8 @@
-/**
- * If using a CSS pre-processor, tell it to overwrite this file. If not, place
- * your custom CSS modifications here.
- */
+.navbar-default, .navbar-brand {
+  color: white !important;
+}
 
 .navbar {
-  /*background-color: #404041;*/
   background-color: #658CAA;
 }
 
@@ -26,6 +24,10 @@ div#crm-container div.content {
 
 footer {
   background-color: #658CAA;
+  color: white;
 }
 
+footer a, footer a:focus, footer a:hover {
+  color: white;
+}
 
