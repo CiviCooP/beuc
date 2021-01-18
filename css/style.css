@@ -1,0 +1,31 @@
+/**
+ * If using a CSS pre-processor, tell it to overwrite this file. If not, place
+ * your custom CSS modifications here.
+ */
+
+.navbar {
+  /*background-color: #404041;*/
+  background-color: #658CAA;
+}
+
+button.navbar-toggle {
+  display: none;
+}
+
+div#crm-container div.label {
+  color: #333333;
+  display: block;
+  width: 100%;
+  text-align: left;
+}
+
+div#crm-container div.content {
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #658CAA;
+}
+
+
